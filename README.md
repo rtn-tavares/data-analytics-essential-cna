@@ -1,2 +1,2 @@
-# data-analytics-essential-cna
-Data Analytics Essential - Cisco Networking Academy
+# Data Analytics Essential - Cisco Networking Academy
+Curso de Fundamentos da Análise de Dados
